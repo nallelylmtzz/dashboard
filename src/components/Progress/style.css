@@ -1,0 +1,5 @@
+.backdrop{
+    z-index: 10 !important;
+    color: #507ee9;
+    background-color: rgba(0, 0, 0, 0.3);
+}
