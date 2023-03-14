@@ -31,8 +31,6 @@ export const getSeries = async (data) => {
 
 export const getDataSeries = async (data) => {
     const { series, fechaIni, fechaFin, locale } = data
-    console.log('pppppppppppppppppppp', series, fechaIni, fechaFin)
-    
     try {
         const res = await axios.get(
             `https://5i8qcjp333.execute-api.us-east-1.amazonaws.com/dev/series/${series}/${fechaIni}/${fechaFin}`,
