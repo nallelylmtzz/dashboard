@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.4851ba26.css",
+    "main.js": "/dashboard/static/js/main.18756738.js",
+    "static/js/787.545aecf5.chunk.js": "/dashboard/static/js/787.545aecf5.chunk.js",
+    "static/media/tablero.png": "/dashboard/static/media/tablero.05ae589a33a000bc9059.png",
+    "index.html": "/dashboard/index.html",
+    "main.4851ba26.css.map": "/dashboard/static/css/main.4851ba26.css.map",
+    "main.18756738.js.map": "/dashboard/static/js/main.18756738.js.map",
+    "787.545aecf5.chunk.js.map": "/dashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4851ba26.css",
+    "static/js/main.18756738.js"
+  ]
+}
